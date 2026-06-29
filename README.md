@@ -1,6 +1,4 @@
-# Event Camera Denoised Datasets
-
-**Project shared on:** June 29, 2026
+# Event Datasets
 
 ## Dataset Download Links
 
